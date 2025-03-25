@@ -56,7 +56,7 @@ up being more detrimental than the value added by the tasks.
 
 ### Communicate
 
-We work remotely, so the importance of regular communiciation is extremely high.
+We work remotely, so the importance of regular communication is extremely high.
 
 If we worked in the same office, we could simply see each other and chat whenever
 something comes up during the day.
