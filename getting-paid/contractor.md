@@ -50,7 +50,7 @@ delivering what is in front of them as it is needed.
 
 While there may be other items in the backlog that you might be able to cherry
 pick, it actually leads to distractions for other team members who have to
-manage, review, and incorporate ths work. If cherry picking from the backlog
+manage, review, and incorporate this work. If cherry picking from the backlog
 becomes normalized rather than focussing on the main line, the disruption ends
 up being more detrimental than the value added by the tasks.
 
