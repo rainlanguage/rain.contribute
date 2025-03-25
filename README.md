@@ -9,11 +9,10 @@ Most of the time, content has been added here due to some real world experience
 where the instructions were not followed, and this experience was bad enough for
 us to feel compelled to write about it.
 
-In that context, we're unlikely to change our minds on the subject matter without
-at least some deep conversation. We're also unlikely to entertain deep
-conversation about any topic here with anyone who hasn't first shown an
-appreciation of why things are the way they are, lest we fall to bikeshedding
-or worse.
+In that context, we're unlikely to change our minds on the matter without at
+least some deep conversation. We're also unlikely to entertain deep conversation
+about any topic here with anyone who hasn't first shown an appreciation of why
+things are the way they are, lest we fall to bikeshedding or worse.
 
 ## Target audience
 
