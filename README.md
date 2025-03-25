@@ -26,7 +26,7 @@ git history, without us standing up some static site shell just to render the
 ## Repo structure
 
 The folder structure in this repository is intended to behave much like a simple
-heirarchical navigation. Documents higher in the tree are more generally
+hierarchical navigation. Documents higher in the tree are more generally
 applicable, while those further down are more specialized and may even override
 or contradict more general advice, in more specific contexts represented by their
 structural specificity.
