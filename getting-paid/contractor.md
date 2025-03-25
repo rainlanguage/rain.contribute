@@ -42,7 +42,7 @@ Experience is something you only get by doing things repeatedly over a long time
 
 ### Fit the work that needs doing
 
-At any time we have very specific work that needs doing in order to meet
+At any time, we have very specific work that needs doing in order to meet
 deadlines, clear out bottlenecks, etc.
 
 We have to focus on only these items, so the team needs to be capable of
