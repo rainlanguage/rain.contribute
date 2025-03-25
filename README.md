@@ -16,8 +16,8 @@ things are the way they are, lest we fall to bikeshedding or worse.
 
 ## Target audience
 
-This repository of information is aimed at those who want to provide _technical_
-contributions, therefore it is targetted at a skilled audience.
+This repository of information is aimed at those who want to provide technical
+contributions and is targeted at a skilled audience.
 
 You're expected to be able to read the contents of the repository, and navigate
 git history, without us standing up some static site shell just to render the
