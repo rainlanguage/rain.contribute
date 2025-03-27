@@ -9,16 +9,15 @@ Most of the time, content has been added here due to some real world experience
 where the instructions were not followed, and this experience was bad enough for
 us to feel compelled to write about it.
 
-In that context, we're unlikely to change our minds on the subject matter without
-at least some deep conversation. We're also unlikely to entertain deep
-conversation about any topic here with anyone who hasn't first shown an
-appreciation of why things are the way they are, lest we fall to bikeshedding
-or worse.
+In that context, we're unlikely to change our minds on the matter without at
+least some deep conversation. We're also unlikely to entertain deep conversation
+about any topic here with anyone who hasn't first shown an appreciation of why
+things are the way they are, lest we fall to bikeshedding or worse.
 
 ## Target audience
 
-This repository of information is aimed at those who want to provide _technical_
-contributions, therefore it is targetted at a skilled audience.
+This repository of information is aimed at those who want to provide technical
+contributions and is targeted at a skilled audience.
 
 You're expected to be able to read the contents of the repository, and navigate
 git history, without us standing up some static site shell just to render the
@@ -27,7 +26,7 @@ git history, without us standing up some static site shell just to render the
 ## Repo structure
 
 The folder structure in this repository is intended to behave much like a simple
-heirarchical navigation. Documents higher in the tree are more generally
+hierarchical navigation. Documents higher in the tree are more generally
 applicable, while those further down are more specialized and may even override
 or contradict more general advice, in more specific contexts represented by their
 structural specificity.
