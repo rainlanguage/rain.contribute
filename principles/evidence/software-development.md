@@ -34,7 +34,7 @@ The process is something like
 - We can't produce any scenarios where the code doesn't do what we want
 
 Happy path thinking skips the last and very crucial step. The step where we
-actually create reproduceable scenarios (aka "tests") and exhaust ourselves and
+actually create reproducible scenarios (aka "tests") and exhaust ourselves and
 our creativity in producing more.
 
 Common culprits include
