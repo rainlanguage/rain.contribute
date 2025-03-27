@@ -15,7 +15,7 @@ explore as many representative regions of the solution space as we can, in the
 most efficient way possible.
 
 An example is the fuzzer in Foundry for testing Solidity code. Faced with
-basically every value having ~2^256 possible values, they generates values
+basically every value having ~2^256 possible values, they generate values
 over log rather than linear space (e.g. bits as coin flips in the binary), with
 some additional logic to pay special attention to known troublemakers such as
 `0` and `type(uint256).max`.
