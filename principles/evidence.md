@@ -15,7 +15,7 @@ Automating the process of producing evidence has several benefits
 
 - Distributes access to the evidence across the entire team
   - Reduces reliance on a single team member
-    - They may not be available in your time zone or due to other resonsibilities
+    - They may not be available in your time zone or due to other responsibilities
     - They may misinterpret the evidence, that another member might correctly
       interpret if given the chance
 - Increases the speed of evidence production
