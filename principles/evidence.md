@@ -28,7 +28,7 @@ Automating the process of producing evidence has several benefits
 
 Examples of evidence automation include:
 
-- Simple scripts that can be run on Github actions as needed
+- Simple scripts that can be run on GitHub actions as needed
 - Logging/monitoring inline in prod
 - Test suites for code
 - Back testing and models strategies from onchain data
