@@ -44,7 +44,7 @@ outcome?
 The problem, however, is often knowing when to stop, or at least to cut a 1.0
 release.
 
-Ideally we should release as early and often as possible, which would be as soon
+Ideally, we should release as early and often as possible, which would be as soon
 as the new thing is at least as good as the old thing, with more room to grow.
 
 To establish this in evidence, we need to define some KPIs/metrics that can be
