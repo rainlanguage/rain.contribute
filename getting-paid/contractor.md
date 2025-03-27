@@ -69,7 +69,7 @@ typically assume there is no work being done.
 
 ### Follow the contribution guidelines
 
-Of course it's even more important that paid members of the Rain ecosystem follow
+Of course, it's even more important that paid members of the Rain ecosystem follow
 all the contribution guidelines in this repository.
 
 You need to both follow and set an example for all to follow.
