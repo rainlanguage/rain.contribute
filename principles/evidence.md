@@ -41,7 +41,7 @@ project, the end result will be better than the current state of things.
 Indeed, why would we ever start a large new project if we expect a worse final
 outcome?
 
-The problem however, is often knowing when to stop, or at least to cut a 1.0
+The problem, however, is often knowing when to stop, or at least to cut a 1.0
 release.
 
 Ideally we should release as early and often as possible, which would be as soon
