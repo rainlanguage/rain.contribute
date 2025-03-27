@@ -9,7 +9,7 @@ We have a lot of work to do on Rain in the following areas:
   - Infrastructure that directly interacts with onchain contracts
     - Solvers that find and execute arbitrage opportunities on Raindex
 - Typescript development
-  - Product develoment that uses the Rust/WASM SDK to present GUIs for end users
+  - Product development that uses the Rust/WASM SDK to present GUIs for end users
 - Solidity/YUL development
   - Smart contract development and testing
 
