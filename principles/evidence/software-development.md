@@ -28,7 +28,7 @@ The process is something like
 
 - The code does not exist
 - Code exists but does not compile
-- Code compiles but we've never seen it do what we want
+- Code compiles, but we've never seen it do what we want
 - We've seen the code do what we want once
 - We've seen the code do what we want several times
 - We can't produce any scenarios where the code doesn't do what we want
